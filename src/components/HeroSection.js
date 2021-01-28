@@ -17,13 +17,13 @@ function HeroSection() {
           START
         </Button>
 
-        <Button
+        {/*    <Button
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
           WATCH TRAILER <i className="far fa-play-circle" />
-        </Button>
+        </Button> */}
       </div>
     </div>
   );
